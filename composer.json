@@ -1,0 +1,15 @@
+{
+  "name": "joec4i/twitogram",
+  "description": "Twitter Histogram",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Joe Cai",
+      "email": "joey.cai@gmail.com"
+    }
+  ],
+  "require": {
+    "silex/silex": "2.0.x-dev"
+  }
+}
