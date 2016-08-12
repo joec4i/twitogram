@@ -1,0 +1,49 @@
+---
+
+- hosts: all
+  become: yes
+
+  vars:
+    timezone: Australia/Sydney
+    xdebug_remote_host: 192.168.66.1
+
+  tasks:
+
+  - name: Set timezone
+    file: src=/usr/share/zoneinfo/{{ timezone }}  dest=/etc/localtime state=link force=yes
+
+  - name: Install essential packages
+    apt: name={{ item }} state=latest
+    with_items:
+      - nginx-full
+      - php7.0
+      - php7.0-curl
+      - php7.0-cli
+      - php7.0-opcache
+      - php7.0-fpm
+      - php-xdebug
+ 
+  - name: nginx configuration
+    copy: src=files/nginx.conf dest=/etc/nginx/sites-available/default mode=0644
+    notify: restart nginx
+ 
+  - name: php-fpm configuration
+    copy: src=files/php.ini dest=/etc/php/7.0/fpm/php.ini mode=0644
+    notify: restart php-fpm
+  
+  - name: xdebug configuration
+    template: src=files/xdebug.ini dest=/etc/php/7.0/mods-available/xdebug.ini mode=0644
+    notify: restart php-fpm
+    
+  - name: Start nginx
+    service: name=nginx state=running enabled=yes
+
+  - name: Start php-fpm
+    service: name=php7.0-fpm state=running enabled=yes
+
+  handlers:
+  - name: restart nginx
+    service: name=nginx state=restarted enabled=yes
+
+  - name: restart php-fpm
+    service: name=php7.0-fpm state=restarted enabled=yes

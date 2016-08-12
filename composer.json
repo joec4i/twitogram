@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "silex/silex": "2.0.x-dev"
+    "silex/silex": "~2.0"
   }
 }
