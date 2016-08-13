@@ -62,7 +62,7 @@ Vagrant.configure("2") do |config|
   # documentation for more information about their specific syntax and use.
   config.vm.provision "ansible_local" do |ansible|
     ansible.playbook = "ansible/playbook.yml"
-    ansible.verbose = true
+    ansible.verbose = false
     ansible.install = true
     ansible.install_mode = "default"
   end
