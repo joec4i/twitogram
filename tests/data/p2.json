@@ -1,0 +1,364 @@
+[
+  {
+    "created_at": "Wed Aug 10 08:05:08 +0000 2016",
+    "id": 763285037840080897,
+    "id_str": "763285037840080897",
+    "text": "Maranello Live: the place where you can hear the sound of a beating heart. #Ferrari https:\/\/t.co\/WgPppz4f8d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            75,
+            83
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 763285034224672768,
+          "id_str": "763285034224672768",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/Cpe7sc9VYAAav27.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cpe7sc9VYAAav27.jpg",
+          "url": "https:\/\/t.co\/WgPppz4f8d",
+          "display_url": "pic.twitter.com\/WgPppz4f8d",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763285037840080897\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 763285034224672768,
+          "id_str": "763285034224672768",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/Cpe7sc9VYAAav27.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cpe7sc9VYAAav27.jpg",
+          "url": "https:\/\/t.co\/WgPppz4f8d",
+          "display_url": "pic.twitter.com\/WgPppz4f8d",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763285037840080897\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238278,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 352,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Aug 09 18:05:09 +0000 2016",
+    "id": 763073647401545728,
+    "id_str": "763073647401545728",
+    "text": "A vast range of kits, components and accessories. Discover the\u00a0#Ferrari\u00a0Genuine programme https:\/\/t.co\/NO7WgEZxLQ https:\/\/t.co\/fbaP38cveB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            63,
+            71
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/NO7WgEZxLQ",
+          "expanded_url": "http:\/\/auto.ferrari.com\/en_EN\/owners\/car-part-services\/",
+          "display_url": "auto.ferrari.com\/en_EN\/owners\/c\u2026",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 763073643999965184,
+          "id_str": "763073643999965184",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/Cpb7b7AUsAA5XSs.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cpb7b7AUsAA5XSs.jpg",
+          "url": "https:\/\/t.co\/fbaP38cveB",
+          "display_url": "pic.twitter.com\/fbaP38cveB",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763073647401545728\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 763073643999965184,
+          "id_str": "763073643999965184",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/Cpb7b7AUsAA5XSs.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cpb7b7AUsAA5XSs.jpg",
+          "url": "https:\/\/t.co\/fbaP38cveB",
+          "display_url": "pic.twitter.com\/fbaP38cveB",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763073647401545728\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238278,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 87,
+    "favorite_count": 315,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
