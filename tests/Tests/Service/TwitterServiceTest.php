@@ -12,6 +12,7 @@ use Twitogram\Tests\BaseTestCase;
 class TwitterServiceTest extends BaseTestCase
 {
     /**
+     * @covers ::__construct
      * @covers ::histogram
      * @covers ::getTweets
      */
