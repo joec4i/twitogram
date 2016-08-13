@@ -3,8 +3,15 @@ php:
   - '5.6'
   - '7.0'
 
+addons:
+  code_climate:
+    repo_token: 531a2bc006f9d5d1404b8be86ed802aedcf7c0524d5bc9ee581bf277162a4848
+
 before_script:
   - composer self-update
   - composer install --prefer-source --no-interaction --dev
 
 script: vendor/bin/phpunit
+
+after_script:
+  - vendor/bin/test-reporter

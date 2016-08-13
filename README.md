@@ -1,6 +1,8 @@
 # Twitogram - A twitter histogram demo  
 
 [![Build Status](https://travis-ci.org/joec4i/twitogram.svg?branch=master)](https://travis-ci.org/joec4i/twitogram)
+[![Code Climate](https://codeclimate.com/github/joec4i/twitogram/badges/gpa.svg)](https://codeclimate.com/github/joec4i/twitogram)
+[![Test Coverage](https://codeclimate.com/github/joec4i/twitogram/badges/coverage.svg)](https://codeclimate.com/github/joec4i/twitogram/coverage)
 
 ## System requirements
 * Vagrant 1.8 (with ansible_local support). 

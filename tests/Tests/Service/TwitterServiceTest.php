@@ -14,7 +14,6 @@ class TwitterServiceTest extends BaseTestCase
     /**
      * @covers ::histogram
      * @covers ::getTweets
-     * @covers 
      */
     public function testHistogram()
     {

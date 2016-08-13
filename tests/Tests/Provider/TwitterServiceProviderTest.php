@@ -10,7 +10,7 @@ use Twitogram\Tests\BaseTestCase;
 /**
  * Class TwitterServiceProviderTest
  * @package Twitogram\Tests\Provider
- * @coversDefaultClass Twitogram\Service\TwitterService
+ * @coversDefaultClass Twitogram\Provider\TwitterServiceProvider
  */
 class TwitterServiceProviderTest extends BaseTestCase
 {
