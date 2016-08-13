@@ -6,6 +6,7 @@
   vars:
     timezone: Australia/Sydney
     xdebug_remote_host: 192.168.66.1
+    project_home: /vagrant
 
   tasks:
 
@@ -22,6 +23,7 @@
       - php7.0-opcache
       - php7.0-fpm
       - php-xdebug
+      - composer
  
   - name: nginx configuration
     copy: src=files/nginx.conf dest=/etc/nginx/sites-available/default mode=0644
@@ -40,6 +42,9 @@
 
   - name: Start php-fpm
     service: name=php7.0-fpm state=running enabled=yes
+
+  - name: Run composer install
+    composer: command=install working_dir={{ project_home }}
 
   handlers:
   - name: restart nginx

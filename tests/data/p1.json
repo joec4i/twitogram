@@ -1,0 +1,1285 @@
+[
+  {
+    "created_at": "Fri Aug 12 18:05:04 +0000 2016",
+    "id": 764160789292777472,
+    "id_str": "764160789292777472",
+    "text": "The \"Master Chef\" Gordon Ramsey talks about the #Ferrari #CaliforniaT. Discover his words https:\/\/t.co\/T5GIliu0cR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            48,
+            56
+          ]
+        },
+        {
+          "text": "CaliforniaT",
+          "indices": [
+            57,
+            69
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/T5GIliu0cR",
+          "expanded_url": "https:\/\/youtu.be\/5aNT-pfNc_8?list=PLzbdvw99SKOcP8ZY3Dpouu1WlYMTulolt",
+          "display_url": "youtu.be\/5aNT-pfNc_8?li\u2026",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 67,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Aug 12 13:05:03 +0000 2016",
+    "id": 764085288465379328,
+    "id_str": "764085288465379328",
+    "text": "Exterior, interior, rims, optionals and much more. Play with #Ferrari Car Configurator and build your #488GTB https:\/\/t.co\/lQVTtay0tK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            61,
+            69
+          ]
+        },
+        {
+          "text": "488GTB",
+          "indices": [
+            102,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/lQVTtay0tK",
+          "expanded_url": "https:\/\/cards.twitter.com\/cards\/18ce53wzna6\/1znk0",
+          "display_url": "cards.twitter.com\/cards\/18ce53wz\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 97,
+    "favorite_count": 250,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Aug 12 08:05:08 +0000 2016",
+    "id": 764009813357441024,
+    "id_str": "764009813357441024",
+    "text": "Any ideas for the weekend? #Ferrari https:\/\/t.co\/xHvTA4fXUX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            27,
+            35
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 764009810673012737,
+          "id_str": "764009810673012737",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CppO3_oUEAEcYmr.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CppO3_oUEAEcYmr.jpg",
+          "url": "https:\/\/t.co\/xHvTA4fXUX",
+          "display_url": "pic.twitter.com\/xHvTA4fXUX",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/764009813357441024\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 764009810673012737,
+          "id_str": "764009810673012737",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CppO3_oUEAEcYmr.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CppO3_oUEAEcYmr.jpg",
+          "url": "https:\/\/t.co\/xHvTA4fXUX",
+          "display_url": "pic.twitter.com\/xHvTA4fXUX",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/764009813357441024\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 133,
+    "favorite_count": 425,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 11 18:05:05 +0000 2016",
+    "id": 763798408452681729,
+    "id_str": "763798408452681729",
+    "text": "The easiest way to purchase a used #PrancingHorse car is the #Ferrari Approved program. https:\/\/t.co\/5K30byJ8Nr https:\/\/t.co\/GfD7VAzPhX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PrancingHorse",
+          "indices": [
+            35,
+            49
+          ]
+        },
+        {
+          "text": "Ferrari",
+          "indices": [
+            61,
+            69
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/5K30byJ8Nr",
+          "expanded_url": "http:\/\/preowned.ferrari.com\/en",
+          "display_url": "preowned.ferrari.com\/en",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 763798406519070720,
+          "id_str": "763798406519070720",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CpmOmpyUIAACmTI.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CpmOmpyUIAACmTI.jpg",
+          "url": "https:\/\/t.co\/GfD7VAzPhX",
+          "display_url": "pic.twitter.com\/GfD7VAzPhX",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763798408452681729\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 961,
+              "h": 564,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 399,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 961,
+              "h": 564,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 763798406519070720,
+          "id_str": "763798406519070720",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CpmOmpyUIAACmTI.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CpmOmpyUIAACmTI.jpg",
+          "url": "https:\/\/t.co\/GfD7VAzPhX",
+          "display_url": "pic.twitter.com\/GfD7VAzPhX",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763798408452681729\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 961,
+              "h": 564,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 399,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 961,
+              "h": 564,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 78,
+    "favorite_count": 308,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 11 13:05:05 +0000 2016",
+    "id": 763722911265861632,
+    "id_str": "763722911265861632",
+    "text": "Certificate of excellence. #Ferrari #RossoFerrari https:\/\/t.co\/1itTYWyi6J https:\/\/t.co\/EBEICnpde2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            27,
+            35
+          ]
+        },
+        {
+          "text": "RossoFerrari",
+          "indices": [
+            36,
+            49
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/1itTYWyi6J",
+          "expanded_url": "https:\/\/www.instagram.com\/p\/BIAkK-rAVng\/",
+          "display_url": "instagram.com\/p\/BIAkK-rAVng\/",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 763722908568920064,
+          "id_str": "763722908568920064",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CplJ8GAUIAAHmu0.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CplJ8GAUIAAHmu0.jpg",
+          "url": "https:\/\/t.co\/EBEICnpde2",
+          "display_url": "pic.twitter.com\/EBEICnpde2",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763722911265861632\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 763722908568920064,
+          "id_str": "763722908568920064",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CplJ8GAUIAAHmu0.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CplJ8GAUIAAHmu0.jpg",
+          "url": "https:\/\/t.co\/EBEICnpde2",
+          "display_url": "pic.twitter.com\/EBEICnpde2",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763722911265861632\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 78,
+    "favorite_count": 272,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Thu Aug 11 08:05:10 +0000 2016",
+    "id": 763647431389044736,
+    "id_str": "763647431389044736",
+    "text": "V12 engine from 1964 and evident elegance: a chance to go back in time. #Ferrari #330GT #TBT https:\/\/t.co\/KZSYHdzKKN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            72,
+            80
+          ]
+        },
+        {
+          "text": "330GT",
+          "indices": [
+            81,
+            87
+          ]
+        },
+        {
+          "text": "TBT",
+          "indices": [
+            88,
+            92
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 763647428268392448,
+          "id_str": "763647428268392448",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CpkFSj-UAAAeHc0.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CpkFSj-UAAAeHc0.jpg",
+          "url": "https:\/\/t.co\/KZSYHdzKKN",
+          "display_url": "pic.twitter.com\/KZSYHdzKKN",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763647431389044736\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 763647428268392448,
+          "id_str": "763647428268392448",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CpkFSj-UAAAeHc0.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CpkFSj-UAAAeHc0.jpg",
+          "url": "https:\/\/t.co\/KZSYHdzKKN",
+          "display_url": "pic.twitter.com\/KZSYHdzKKN",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763647431389044736\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 103,
+    "favorite_count": 309,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 10 18:05:06 +0000 2016",
+    "id": 763436024596865024,
+    "id_str": "763436024596865024",
+    "text": "Four-wheel drive, four-wheel steering. Find out more about the vehicle\ndynamics of the #GTC4Lusso. #Ferrari https:\/\/t.co\/JIi5UO6x1U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GTC4Lusso",
+          "indices": [
+            87,
+            97
+          ]
+        },
+        {
+          "text": "Ferrari",
+          "indices": [
+            99,
+            107
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/JIi5UO6x1U",
+          "expanded_url": "https:\/\/cards.twitter.com\/cards\/18ce53wzna6\/20lbu",
+          "display_url": "cards.twitter.com\/cards\/18ce53wz\u2026",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/ads.twitter.com\" rel=\"nofollow\">Twitter Ads<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 190,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 10 13:05:06 +0000 2016",
+    "id": 763360525325508609,
+    "id_str": "763360525325508609",
+    "text": "Discover the world of the Prancing Horse. Download the new #Ferrari Mag APP for iOS https:\/\/t.co\/DMVa1JKwyM https:\/\/t.co\/htTPlKGm9f",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ferrari",
+          "indices": [
+            59,
+            67
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/DMVa1JKwyM",
+          "expanded_url": "http:\/\/apple.co\/2aFfxQA",
+          "display_url": "apple.co\/2aFfxQA",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 763360522301345797,
+          "id_str": "763360522301345797",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CpgAWb9UEAUNHuT.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CpgAWb9UEAUNHuT.jpg",
+          "url": "https:\/\/t.co\/htTPlKGm9f",
+          "display_url": "pic.twitter.com\/htTPlKGm9f",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763360525325508609\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 763360522301345797,
+          "id_str": "763360522301345797",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CpgAWb9UEAUNHuT.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CpgAWb9UEAUNHuT.jpg",
+          "url": "https:\/\/t.co\/htTPlKGm9f",
+          "display_url": "pic.twitter.com\/htTPlKGm9f",
+          "expanded_url": "http:\/\/twitter.com\/Ferrari\/status\/763360525325508609\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https:\/\/manage.involver.com\" rel=\"nofollow\">Oracle Engage<\/a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2650413864,
+      "id_str": "2650413864",
+      "name": "Ferrari",
+      "screen_name": "Ferrari",
+      "location": "Maranello | Italy",
+      "description": "Official account of #Ferrari, \nItalian Excellence that makes the world dream.",
+      "url": "http:\/\/t.co\/MlSOyKdGDt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http:\/\/t.co\/MlSOyKdGDt",
+              "expanded_url": "http:\/\/www.ferrari.com",
+              "display_url": "ferrari.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 238325,
+      "friends_count": 10,
+      "listed_count": 1318,
+      "created_at": "Wed Jul 16 08:41:02 +0000 2014",
+      "favourites_count": 27,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2273,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/727111708892880897\/DOaYZglW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2650413864\/1455863443",
+      "profile_link_color": "BC0001",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 83,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
