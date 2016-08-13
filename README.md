@@ -1,5 +1,7 @@
 # Twitogram - A twitter histogram demo  
 
+[![Build Status](https://travis-ci.org/joec4i/twitogram.svg?branch=master)](https://travis-ci.org/joec4i/twitogram)
+
 ## System requirements
 * Vagrant 1.8 (with ansible_local support). 
 * Oracle Virtualbox ( tested on v5.0.26)
