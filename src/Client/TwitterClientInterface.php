@@ -11,6 +11,7 @@ interface TwitterClientInterface
      * Call statuses/user_timeline and return the response
      * @param array $parameters
      * @return \stdClass[]
+     * @throw \Exception
      */
     public function getUserTimeline(array $parameters);
 

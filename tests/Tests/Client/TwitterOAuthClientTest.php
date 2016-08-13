@@ -59,6 +59,8 @@ class TwitterOAuthClientTest extends BaseTestCase
         $params = [
             'screen_name' => 'Ferrari',
             'count' => 8,
+            'exclude_replies' => false,
+            'include_rts' => true,
         ];
 
         // $client = new TwitterOAuthClient($this->getConfig());

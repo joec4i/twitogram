@@ -28,7 +28,6 @@ class TwitterServiceTest extends BaseTestCase
             'count' => 8,
             'exclude_replies' => false,
             'include_rts' => true,
-            'max_id' => null,
         ];
 
         $p2['max_id'] = 763360525325508609;
@@ -39,7 +38,7 @@ class TwitterServiceTest extends BaseTestCase
         ];
 
         $client->expects($this->exactly(2))->method('getUserTimeline')->will($this->returnValueMap($map));
-        
+
         $service = new TwitterService($client);
 
         $histogram = $service->histogram('Ferrari', 8);

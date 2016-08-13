@@ -64,7 +64,11 @@ class TwitterOAuthClient extends TwitterClient implements TwitterClientInterface
      */
     public function getUserTimeline(array $parameters)
     {
-        return $this->getConnection()->get('statuses/user_timeline', $parameters);
+        $result = $this->getConnection()->get('statuses/user_timeline', $parameters);
+
+        $this->validate($result);
+
+        return $result;
     }
 
 }

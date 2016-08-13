@@ -21,11 +21,12 @@ $app->get('/hello/{name}', function ($name) use ($app) {
 $app->get('/histogram/{name}', function ($name) use ($app) {
     try {
         /** @var \Twitogram\Service\TwitterService $app['twitter.service'] */
-        $histogram = $app['twitter.service']->histogram($name, 10);
-        
+        $histogram = $app['twitter.service']->histogram($name);
         return new \Symfony\Component\HttpFoundation\JsonResponse($histogram);
+    } catch (\Twitogram\Client\Exception\Exception $e) {
+        return new \Symfony\Component\HttpFoundation\Response('Error calling twitter API - ' . $e->getMessage(), 500);
     } catch (Exception $e) {
-        echo $e->getMessage();
+        return new \Symfony\Component\HttpFoundation\Response('Error occurred - ' . $e->getMessage(), 500);
     }
 });
 

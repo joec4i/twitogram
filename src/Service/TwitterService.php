@@ -3,6 +3,10 @@ namespace Twitogram\Service;
 
 use Twitogram\Client\TwitterClientInterface;
 
+/**
+ * Class TwitterService
+ * @package Twitogram\Service
+ */
 class TwitterService
 {
     /**
@@ -61,9 +65,11 @@ class TwitterService
             'count' => $perpage,
             'exclude_replies' => false,
             'include_rts' => true,
-            'max_id' => $maxId,
-
         ];
+
+        if (!empty($maxId)) {
+            $params['max_id'] = $maxId;
+        }
 
         return $this->client->getUserTimeline($params);
     }
